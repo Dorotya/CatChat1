@@ -1,0 +1,9 @@
+# Built files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Файлы сборки
+build/
+.gradle/
