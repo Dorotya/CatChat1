@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/inboxFragment"
+        android:icon="@drawable/ic_inbox"
+        android:title="@string/inbox" />
+
+    <item
+        android:id="@+id/sentFragment"
+        android:icon="@drawable/ic_send"
+        android:title="@string/sent" />
+
+    <item
+        android:id="@+id/trashFragment"
+        android:icon="@drawable/ic_trash"
+        android:title="@string/trash" />
+</menu>
